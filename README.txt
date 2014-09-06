@@ -1,0 +1,1 @@
+This is an assignment from University where I got to create a program an Scheme that will place any item in a binary search tree and then print it out in order. Although this is pretty simple, it was a fun exercise in functional programming.
